@@ -132,6 +132,7 @@ flatpak
 ### KOOMPIOS
 # Core packages
 koompi-os
+pizard
 #koompi-first-setup
 adwdialog
 koompi-control-center
