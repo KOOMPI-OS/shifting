@@ -118,7 +118,5 @@ alias goubuntu="/usr/lib/pix/distrobox enter pix_managed_apt"
 alias goarch="/usr/lib/pix/distrobox enter pix_managed_aur"
 alias px="pix"
 
-
-alias update-ui="bash $HOME/.scripts/pizard update"
 alias open="nautilus"
 
