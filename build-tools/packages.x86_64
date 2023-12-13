@@ -1,3 +1,4 @@
+webkit2gtk
 xorriso
 os-prober
 gnome-disk-utility
@@ -133,11 +134,11 @@ flatpak
 # Core packages
 koompi-os
 pizard
+automatic-update
 #koompi-first-setup
 adwdialog
 koompi-control-center
-koompi-system-operator
-koompi-updater
+#koompi-updater
 micro-distrobox
 pix
 pibee-git

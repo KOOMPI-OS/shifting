@@ -1,7 +1,7 @@
 # Maintainer: Hangsia Hong <hangsia@koompi.org>
 
 pkgname=koompi-control-center
-pkgver=0.1.0
+pkgver=0.1.1
 pkgrel=1
 pkgdesc='KOOMPI Control Center'
 arch=(x86_64 aarch64)
@@ -14,6 +14,7 @@ md5sums=('SKIP')
 
 
 package() {
-  cd "$srcdir/$pkgname" 
+  cp -r ../usr $pkgdir/usr
+  ln -sf $pkgdir/usr/local/bin/control-center $pkgdir/usr/local/bin/koompi-control-center
   ## Install the Control Center here
 }
