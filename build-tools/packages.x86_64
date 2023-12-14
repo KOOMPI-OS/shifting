@@ -135,10 +135,8 @@ flatpak
 koompi-os
 pizard
 automatic-update
-#koompi-first-setup
 adwdialog
 koompi-control-center
-#koompi-updater
 micro-distrobox
 pix
 pibee-git
