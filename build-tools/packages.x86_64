@@ -1,8 +1,6 @@
 webkit2gtk
 xorriso
 os-prober
-gnome-disk-utility
-gnome-tweaks
 vim
 grub-koompi
 efibootmgr
@@ -125,10 +123,8 @@ ifstat
 #ichaotic-mirrorlist
 
 ### Gnome Software
-gnome
 firefox
 flatpak
-#gnome-software-plugin-flatpak
 
 ### KOOMPIOS
 # Core packages
